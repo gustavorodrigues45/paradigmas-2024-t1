@@ -1,4 +1,4 @@
-/teste/
+//teste
 /**
  * Este arquivo pode ser utilizado para criar um teste rápido
  * que permita depurar a função que está atualmente sendo
